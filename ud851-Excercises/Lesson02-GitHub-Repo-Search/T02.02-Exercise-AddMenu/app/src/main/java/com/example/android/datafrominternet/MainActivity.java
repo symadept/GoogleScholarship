@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
             String message = "Search menu item clicked...!";
 
             Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
-            
+
             //Return true to specify this was handled well.
             return true;
         }
